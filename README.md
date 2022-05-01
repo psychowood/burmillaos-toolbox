@@ -47,7 +47,7 @@ Inside of the toolbox, the machine's filesystem is mounted to /media/root
 
 
 #### Links
-https://coreos.com/os/docs/latest/install-debugging-tools.html
+[https://coreos.com/os/docs/latest/install-debugging-tools.html via Archive.org since CoreOS is EOL](https://web.archive.org/web/20201024122519/https://coreos.com/os/docs/latest/install-debugging-tools.html)
 
 ---
 ##### License:

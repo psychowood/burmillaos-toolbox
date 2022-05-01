@@ -1,5 +1,5 @@
 FROM alpine
-LABEL maintainer="Christian Wagner https://github.com/chriswayg"  
+LABEL maintainer="Giacomo Giustozzi https://github.com/psychowood/burmillaos-toolbox"  
 ENV TERM=xterm
 WORKDIR /media/root
 
